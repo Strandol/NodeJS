@@ -1,0 +1,33 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "Arch(Lab2)",
+  "main": "MOVE.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Strandol/NodeJS_Lab2.git"
+  },
+  "keywords": [
+    "lab2",
+    "arch_lab",
+    "nodejs"
+  ],
+  "author": "Strandol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strandol/NodeJS_Lab2/issues"
+  },
+  "homepage": "https://github.com/Strandol/NodeJS_Lab2#readme",
+  "dependencies": {
+    "stat-mode": "^0.2.2",
+    "mkdirp": "^0.5.1",
+    "read": "^1.0.7",
+    "seq": "^0.3.5",
+    "prompt": "^1.0.0",
+    "winattr": "^2.0.0"
+  },
+  "devDependencies": {}
+}
